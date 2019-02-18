@@ -1,0 +1,2 @@
+# TitleParser
+基于StandfordNLP利用规则获取标题中的名词性短语
